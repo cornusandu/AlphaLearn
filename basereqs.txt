@@ -1,0 +1,11 @@
+requests
+pandas
+urllib3
+rich
+transformers
+torch
+torchvision
+optimum
+huggingface_hub
+idna
+optimum-intel[openvino]

@@ -1,3 +1,4 @@
 models/llama/*
 .venv/*
 .venv
+results.parquet

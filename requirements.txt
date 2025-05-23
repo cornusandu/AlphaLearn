@@ -1,2 +1,2 @@
-textual
-rich
+numpy>=1.24,<1.25
+openvino-dev[onnx]
