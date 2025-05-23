@@ -4,7 +4,6 @@ transformers
 torch
 torchvision
 pandas
-numpy
 requests
 urllib3
 optimum

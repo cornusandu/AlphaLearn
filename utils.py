@@ -2,8 +2,8 @@ import json
 import os
 # import transformers
 
-def get_local_file(path: str, *paths) -> str:
-    return os.path.join(os.path.dirname(__file__), path, *paths)
+def get_local_file(path: str, *paths, no_dot: bool = False) -> str:
+    return os.path.join(os.path.curdir if not no_dot else '', path, *paths)
 
 def setup_passed() -> bool:
     with open(get_local_file("state.json"), "r") as f:
