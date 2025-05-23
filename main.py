@@ -183,14 +183,14 @@ def main():
         {"role": "license", "content": licenses[0]},
     {"role": "license", "content": licenses[1]}]
     # Update message based on whether GPU is available
-    device_info = "[bold green]GPU[/]" if load_model.is_using_gpu() else "[dim]CPU[/]"
+    device_info = "[bold]CPU[/]"
     console.print(f"AlphaLearn - Chat with AI models completely offline\n(Using {device_info} for computations)\nType [bold blue]\\[setup][/] to change settings. Press [bold red]CTRL+C[/] to exit.")
     while True:
         worker_percent = get_config()['allocated_CPU']
         num_workers = load_model.get_workers(worker_percent)
         print(f"Using {num_workers} workers ({worker_percent}% of CPU)")
 
-        rinput = console.input("[bold blue]>>[/][bold]")
+        rinput = console.input("[bold blue]>>[/][bold]").strip()
         if rinput == '[setup]':
             data = get_config()
             state = get_state()
@@ -213,7 +213,7 @@ def main():
             console.print(f"AlphaLearn - Chat with AI models completely offline\n(Using {device_info} for computations)\nType [bold blue]\\[setup][/] to change settings. Press [bold red]CTRL+C[/] to exit.")
             continue
         conversation.append({"role": "user", "content": rinput})
-        response_data = load_model.generate_response(conversation, pipe, num_workers)
+        response_data = load_model.generate_response(conversation, pipe, num_workers).replace("\\n", "\n")
         console.print(Markdown(response_data[1], code_theme="stata-light", inline_code_theme="algol"), overflow='fold')
         conversation = response_data[0]
 

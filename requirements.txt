@@ -1,2 +1,13 @@
-textual
 rich
+keyboard
+transformers
+torch
+torchvision
+pandas
+numpy
+requests
+urllib3
+optimum
+huggingface_hub
+idna
+optimum-intel[openvino]
