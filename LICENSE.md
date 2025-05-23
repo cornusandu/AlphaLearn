@@ -1,0 +1,51 @@
+## LICENSE AND TERMS & CONDITIONS
+### AlphaLearn AI Chat Program
+
+**Last Updated: 5/10/2025 (mm/dd/yyyy)**  
+**License Version: 1**
+
+### 1. ACCEPTANCE OF TERMS
+By downloading, installing, or using the AlphaLearn AI Chat Program ("the Program"), you agree to be bound by these Terms and Conditions. If you do not agree to these terms, do not use the Program.
+
+### 2. LICENSE GRANT
+Subject to your compliance with these Terms and Conditions, you are granted a limited, non-exclusive, non-transferable, non-sublicensable license to use the Program for personal or internal business purposes.
+
+### 3. RESTRICTIONS AND MODIFICATIONS
+You agree not to:
+- Use the Program for any illegal or unauthorized purpose
+- Redistribute, sell, lease, license, or otherwise make the Program available to any third party
+- Modify, adapt, translate, reverse engineer, decompile, disassemble or create derivative works based on the Program
+- Remove any proprietary notices or labels on the Program
+- Modify the Program to remove any set restrictions
+- Modify the content of the Program without written owner's approval
+- Any modification of program data to bypass license acceptance will be considered as accepting the license and agreeing to all terms
+- Using this program for marketing purposes without the owner's permission will result in a penalty of 0-30% of the profits
+
+### 4. DATA PRIVACY
+Your data privacy is important to us. We commit that:
+- None of your data will be shared with third parties or with us without your explicit approval
+- Any data collection or processing will be transparent and with your consent
+- You maintain control over your data and how it is used
+
+### 5. INTELLECTUAL PROPERTY RIGHTS
+- All intellectual property rights in the Program, including but not limited to copyrights, patents, trademarks, and trade secrets, are owned by the creators and distributors of the Program
+- Nothing in these Terms and Conditions shall be construed as granting you any rights to such intellectual property beyond the limited license described in Section 2
+- Any feedback, suggestions, or improvements you provide regarding the Program may be used by us without any obligation to compensate you
+
+### 6. DISCLAIMER OF WARRANTIES
+THE PROGRAM IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE CREATORS AND DISTRIBUTORS OF THE PROGRAM EXPLICITLY DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+### 7. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE CREATORS OR DISTRIBUTORS OF THE PROGRAM BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE CREATORS AND DISTRIBUTORS ARE NOT RESPONSIBLE FOR ANY SHORT-TERM OR LONG-TERM DAMAGE THIS PROGRAM MAY CAUSE TO YOUR DEVICE. FURTHERMORE, WE ARE NOT RESPONSIBLE FOR ANY DAMAGES IF THE TERMS STATED IN THIS LICENSE ARE BROKEN.
+
+### 8. TERMINATION
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any of its terms. Upon termination, you shall cease all use of the Program and destroy all copies.
+
+### 9. GOVERNING LAW AND COMPLIANCE
+These Terms and Conditions shall be governed by and construed in accordance with applicable laws in your jurisdiction. For users in European Union (EU) member states countries, all conversations and usage must comply with EU regulations. For users outside these regions, all conversations and usage must comply with applicable local and federal laws in your jurisdiction, as well as applicable federal laws in Romania. You agree to comply with all local, state, national, and international laws and regulations that apply to your use of the Program. If the laws in your jurisdiction contradict those in Romania, you are to abide by those in Romania.
+
+### 10. CHANGES TO TERMS
+We reserve the right to modify these Terms and Conditions at any time. When such modifications occur, the previous agreement becomes invalid and you must explicitly agree to the new Terms and Conditions before continuing to use the Program. Simply continuing to use the Program will not constitute acceptance of the modified terms. Any unauthorized modifications, alterations, or changes made to this license agreement by any party other than the creators and distributors will immediately render the entire agreement null and void.
+
+### 11. CONTACT INFORMATION
+If you have any questions about these Terms and Conditions, please contact us at bogdanelsandu+alphalearn@hotmail.com.
