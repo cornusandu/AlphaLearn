@@ -1,7 +1,0 @@
-*.pyc
-config.json
-state.json
-Llama-3.2-3B-Instruct/*
-__pycache__/*
-models/llama/Llama-3.2-3B-Instruct/*
-models/llama/Llama-3.2-3B-Instruct.zip
