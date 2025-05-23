@@ -7,3 +7,4 @@ models/llama/Llama-3.2-3B-Instruct/*
 models/llama/Llama-3.2-3B-Instruct.zip
 models/llama/*
 .venv/*
+output/*
