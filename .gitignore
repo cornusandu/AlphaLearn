@@ -2,3 +2,4 @@ models/llama/*
 .venv/*
 .venv
 results.parquet
+__pycache__/*
