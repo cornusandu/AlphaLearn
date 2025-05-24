@@ -34,7 +34,6 @@ import time
 import tomllib
 import extract
 
-
 import load_model
 
 keyboard.press('f11')
