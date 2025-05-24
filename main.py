@@ -1,4 +1,5 @@
-from rich.console import Console
+from rich.console import Console, JustifyMethod
+from transformers.utils.dummy_pt_objects import JukeboxModel
 import utils
 import os
 console = Console()
@@ -221,7 +222,7 @@ def main():
             continue
         conversation.append({"role": "user", "content": rinput})
         response_data = load_model.generate_response(conversation, pipe, num_workers)
-        console.print(Markdown(response_data[1].replace("\\n", "\n"), code_theme="stata-light", inline_code_theme="algol"), overflow='fold')
+        console.print(Markdown(response_data[1].replace("\\n", "\n"), code_theme="stata-light", inline_code_theme="algol"), overflow='fold', justify='left')
         conversation = response_data[0]
 
 if __name__ == "__main__":
