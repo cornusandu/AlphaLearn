@@ -71,7 +71,7 @@ def generate_response(
     max_new_tokens: int = 1028,
     eos_token_id: int = None
 ) -> tuple[list[dict], str]:
-    num_workers = workers if not torch.cuda.is_available() else 1
+    num_workers = workers
 
     out = model(
         prompt,
