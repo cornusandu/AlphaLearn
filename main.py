@@ -1,5 +1,6 @@
 from rich.console import Console
 import utils
+import os
 console = Console()
 ascii1 = ""
 ascii2 = ""
@@ -8,7 +9,7 @@ with open(utils.get_local_file("MAINPAGE.txt"), "r", encoding="utf-8") as f:
 
 with open(utils.get_local_file("ascii-art.txt"), "r", encoding="utf-8") as f:
     ascii2 = f.read()
-
+os.system("cls || clear")
 console.print("\n\n\n", ascii2, sep = "")
 
 RULES = """- Compliance: Must comply with applicable laws, regulations, and the Llama 3.2 Acceptable Use Policy.
@@ -18,7 +19,6 @@ RULES = """- Compliance: Must comply with applicable laws, regulations, and the 
 - No Warranty/Liability: Understand that the models/materials are provided "AS IS", and creators/distributors/Meta are not liable for damages from use or output."""
 
 import rich
-import os
 import sys
 from rich.prompt import Prompt
 from rich.markdown import Markdown
